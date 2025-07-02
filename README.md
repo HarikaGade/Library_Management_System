@@ -98,7 +98,7 @@ Library_Management_System/
 ├── build.xml
 └── README.md
 ```
-📸 Demo
+
 ![Screenshot 2025-07-02 094139](https://github.com/user-attachments/assets/6f0483ec-1113-4b8b-880e-87a2133016e0)
 
 ![Screenshot 2025-07-02 094202](https://github.com/user-attachments/assets/f2068d34-42d0-461d-9ae9-22966960e0e8)
