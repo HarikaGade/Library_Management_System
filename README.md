@@ -107,6 +107,4 @@ Library_Management_System/
 
 
 
-✍️ Author
-Sanjana Velma
-📧 [sanjanavelma27@gmail.com]
+
